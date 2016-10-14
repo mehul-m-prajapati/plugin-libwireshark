@@ -1,0 +1,9 @@
+This is a small application that uses libwireshark to dissect packets.
+It's basically a simplified version of tshark that doesn't have the bells
+and whistles that tshark has and that uses libpcap instead of libwirecap.
+
+The application was written to understand how to write applications that
+use libwireshark services.
+
+Eloy Paris <peloy@chapus.net>
+Thu Apr  3 11:51:34 EDT 2008
